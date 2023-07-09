@@ -1,3 +1,4 @@
+#/opt/python/3/bin/python
 import socket
 
 def get_domain_name(ip_address):
